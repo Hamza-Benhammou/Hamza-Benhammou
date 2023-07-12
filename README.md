@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Hamza Benhammou</h1>
-<h3 align="center">Front-end web development student from France</h3>
+<h3 align="center">Web developer AI student from France</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamza-benhammou&label=Profile%20views&color=0e75b6&style=flat" alt="hamza-benhammou" /> </p>
 
-- 🌱 I’m currently learning **Javascript, Angular**
+- 🌱 I’m currently learning **Python, R, C++**
 
-- 📫 How to reach me **haamzaa.be@gmail.com**
+- 📫 How to reach me **hbdev.ia@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
